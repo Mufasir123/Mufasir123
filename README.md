@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mufasir Ahamed</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://medium.com/@oninross/do-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mufasir123&label=Profile%20views&color=0e75b6&style=flat" alt="mufasir123" /> </p>
 
