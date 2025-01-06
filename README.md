@@ -1,7 +1,6 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Mufasir Ahamed</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[C:\Users\Syedshazama\OneDrive\Pictures\Saved Picture](https://medium.com/@oninross/do-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63)s">
+<img align="right" alt="Coding" width="400" src="https://medium.com/@oninross/do-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mufasir123&label=Profile%20views&color=0e75b6&style=flat" alt="mufasir123" /> </p>
 
