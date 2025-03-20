@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mufasir Ahamed</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 <img align="center" alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mufasir123&label=Profile%20views&color=0e75b6&style=flat" alt="mufasir123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mufasir123" alt="mufasir123" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, React js, Tailwind CSS, Redux, React-router-dom**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, React js, Tailwind CSS, Redux, React-router-dom, Node.js Express.js Next.js MongoDB Restful Apis**
 
 - 👨‍💻 All of my projects are available at [https://mufasir-portfolio.vercel.app/](https://mufasir-portfolio.vercel.app/)
 
